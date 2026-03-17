@@ -3,12 +3,10 @@
 			<img src="qrcode.svg" alt="QR Code" />
 		</div>
 		<div class="content social">
-			<div class="logo" >
-				<svg width="20" height="20" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M13.9624 83.619C31.102 44.7195 60.1399 8.17071 68.5548 10.071C84.1413 13.5908 98.0687 82.1696 84.5021 88.3525C72.1317 93.99 38.9849 85.5806 10 56.592" stroke="#367D77" stroke-width="10"/>
-</svg>
+			<div class="logo">
+				<img src="logo.png" alt="Goodness Triangle logo" width="20" height="20" />
 			</div>
-			<div class="brand">Goodness Triangle</div>
+			<div class="brand">xDeca</div>
 		</div>
 		<div class="content info">
 			<h1>Alexar Pendashteh</h1>
@@ -16,7 +14,7 @@
 				+61 410 7220 54
 			</div>
 			<div class="email">
-				alexar@goodnesstriangle.com
+				alexar@xdeca.com
 			</div>
 		</div>
 	</section>

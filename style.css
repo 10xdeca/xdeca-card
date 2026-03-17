@@ -2,12 +2,12 @@ body {
 		text-align: center;
 		font-family: Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 		font-size: 2.5mm;
-		color:#367D77;
+		color:#10753A;
 	}
 	body.print {
 			width: 21.5cm;
 			height: 29.5cm;
-			border: 1px solid #367D77;
+			border: 1px solid #10753A;
 			margin: 0;
 			padding: 0;
 	}
@@ -55,7 +55,7 @@ body {
 		height: 20px;
 	}
 	.content.info {
-		border-top: 1px solid #367D77;
+		border-top: 1px solid #10753A;
 		padding-top: 5px;
 		margin-top: 5px;
 	}
