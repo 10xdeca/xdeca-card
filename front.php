@@ -1,20 +1,20 @@
 <section>
 		<div class="qrcode">
-			<img src="qrcode.svg" alt="QR Code" />
+			<img src="logo.png" alt="QR Code" />
 		</div>
 		<div class="content social">
-			<div class="logo">
-				<img src="logo.png" alt="Goodness Triangle logo" width="20" height="20" />
-			</div>
-			<div class="brand">xDeca</div>
+			<div class="brand"></div>
+			<!-- <div class="logo">
+				<img src="logo.png" alt="xDeca logo" width="30" height="30" />
+			</div> -->
 		</div>
 		<div class="content info">
-			<h1>Alexar Pendashteh</h1>
-			<div class="number">
+			<h1>alexar@xdeca.com</h1>
+			<!-- <div class="number">
 				+61 410 7220 54
 			</div>
 			<div class="email">
-				alexar@xdeca.com
-			</div>
+				
+			</div> -->
 		</div>
 	</section>

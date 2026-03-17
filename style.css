@@ -34,7 +34,7 @@ body {
 		left: 10px;
 	}
 	.content {
-		padding-left: 3.3cm;
+		padding-left: 0.5cm;
 	}
 	.content.social {
 		margin-top: 76px;
@@ -47,7 +47,7 @@ body {
 		align-items: center;
 	}
 	.content.social .brand {
-		font-size: 1.2em;
+		font-size: 1.5em;
 		font-weight: 500;
 	}
 	.content.social svg {
@@ -57,7 +57,7 @@ body {
 	.content.info {
 		border-top: 1px solid #10753A;
 		padding-top: 5px;
-		margin-top: 5px;
+		margin-top: 60px;
 	}
 	h1 {
 		font-size: 1.4em;
@@ -79,7 +79,7 @@ body {
 	.qrcode {
 		font-size: 5em;
 		position: absolute;
-		top: 19mm;
+		top: 12mm;
 		left: 3mm;
 	}
 	.qrcode img {
